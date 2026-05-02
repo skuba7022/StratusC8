@@ -1,1 +1,1 @@
-# StratusC8-twro
+# StratusC8-twrp
